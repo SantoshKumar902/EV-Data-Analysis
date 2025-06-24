@@ -38,3 +38,22 @@ This project analyzes electric vehicle (EV) registration data from Washington St
  - Generate a scatter plot comparing electric range vs. base MSRP to see pricing trends.
  - Plot a pie chart showing the proportion of CAFV-eligible vs. non-eligible EVs.
  - Use a geospatial map to display EV registrations based on vehicle location.
+
+  ## Analyzed Google Colab file ( Solved )
+ - < a href = "https://colab.research.google.com/drive/1zsanAFvEhqXZfqLCTduZyoJdYrcWSmZt?usp=sharing">Solution of EVs Data</a>
+  ## Conclusion
+  # Based on the exploration and visualization of the dataset, several key findings emerged:
+
+- Tesla dominates the EV market, with Model Y and Model 3 being the most registered vehicles.
+
+- King County has the highest number of EV registrations, highlighting it as a key urban EV hub.
+
+- EV adoption has increased sharply post-2020, indicating growing interest and infrastructure support.
+
+- The average electric range of vehicles is approximately 44.6 miles, with models like the Tesla Roadster and Jaguar I-PACE offering the highest range.
+
+- Only 30% of vehicles are CAFV eligible, while over 60% have unknown eligibility, suggesting a need for better range reporting.
+
+- Urban centers show a higher concentration of EVs, reinforcing the need for expanded rural infrastructure.
+
+The analysis supports a deeper understanding of EV growth patterns and provides actionable insights for stakeholders in clean energy and transportation sectors.
