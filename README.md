@@ -40,9 +40,9 @@ This project analyzes electric vehicle (EV) registration data from Washington St
  - Use a geospatial map to display EV registrations based on vehicle location.
 
   ## Analyzed Google Colab file ( Solved )
- - < a href = "https://colab.research.google.com/drive/1zsanAFvEhqXZfqLCTduZyoJdYrcWSmZt?usp=sharing">Solution of EVs Data</a>
-  ## Conclusion
-  # Based on the exploration and visualization of the dataset, several key findings emerged:
+  < a href = "https://colab.research.google.com/drive/1zsanAFvEhqXZfqLCTduZyoJdYrcWSmZt?usp=sharing">Solution of EVs Data</a>
+  # Conclusion
+  ## Based on the exploration and visualization of the dataset, several key findings emerged:
 
 - Tesla dominates the EV market, with Model Y and Model 3 being the most registered vehicles.
 
