@@ -40,7 +40,7 @@ This project analyzes electric vehicle (EV) registration data from Washington St
  - Use a geospatial map to display EV registrations based on vehicle location.
 
   # Analyzed Google Colab file ( Solved )
-  - <a href = "https://colab.research.google.com/drive/1zsanAFvEhqXZfqLCTduZyoJdYrcWSmZt?usp=sharing">Solution of EVs Data</a>
+  - <a href = "https://github.com/SantoshKumar902/Electric-Vehicle-EVs-Data-Analysis/blob/main/EV_Data_Analysis%20(Solution).ipynb">Solution of EVs Data</a>
   # Conclusion
   ## Based on the exploration and visualization of the dataset, several key findings emerged:
 
