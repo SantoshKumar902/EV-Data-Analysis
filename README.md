@@ -1,4 +1,4 @@
-# EV-Data-Analysis Usig Python
+# Electric Vehicle (EVs) Data-Analysis
 ## Project Objective
 This project analyzes electric vehicle (EV) registration data from Washington State to explore trends in EV adoption, performance, and pricing.
 
